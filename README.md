@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Swarup Ingale
 
-🎓 Cybersecurity & IoT Engineering Student  
-🔐 Aspiring Cybersecurity Professional | Security Automation | Python | Bug Bounty Researcher | System Security | Web and API Security 
+🎓 Cybersecurity & IoT Engineer  
+🔐 Cybersecurity Professional | Security Automation | Python | Bug Bounty Researcher | System Security | Web and API Security | CTF Player | AI & ML |  
 📍 India
 
 ---
@@ -21,7 +21,7 @@ I’m currently strengthening my skills in:
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, C/C++, Basics of Bash, Assembly, Javascript, Html
+- **Languages:** Python, C/C++, Basics of Bash, X86_64, Javascript, Html, Typescript
 - **Cybersecurity:** Web Security, API Security, Malware Analysis (Beginner), Phishing Detection
 - **Tools:** Burp Suite, Git, GitHub, VS Code, GDB, Postman, Nuclei
 - **Concepts:** Networking Basics, Linux Fundamentals, Security Fundamentals, OWASP Top 10
