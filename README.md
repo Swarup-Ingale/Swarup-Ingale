@@ -37,17 +37,6 @@ I continually validate my offensive security methodologies against modern infras
 
 ---
 
-## 💼 ./execution_logs (Experience & Leadership)
-
-- 🕵️ **Independent Security Researcher & Bug Bounty Hunter** *(Jan 2025 - Present)*  
-  Executing passive and active reconnaissance frameworks (Nuclei, Burp Suite, SQLMap) on live enterprise environments. Solving advanced exploitation challenges on pwn.college, PortSwigger, HackMyVM, and dreamhack.io. 
-- 🔬 **Head of Research & Development** *(June 2025 - Present)*  
-  Spearheading technical research initiatives, mentoring students in emerging cyber frameworks, and orchestrated the "Breaking the AI" competition for 100+ participants.
-- 🚀 **Co-Head of E-Cell** *(June 2025 - Present)*  
-  Co-leading cross-functional teams to organize workshops and technical showcases, bridging the gap between technical engineering and scalable business strategies.
-
----
-
 ## 🛠️ ./arsenal.exe
 
 ### Core Languages & Systems
