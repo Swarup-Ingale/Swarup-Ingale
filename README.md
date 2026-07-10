@@ -1,25 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Swarup+Ingale;Cybersecurity+%26+IoT+Engineer;Bug+Bounty+Researcher;CTF+Competitor;Full-Stack+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+SWALE-OS...;root%40swarup:~%23+whoami;Cybersecurity+%26+IoT+Engineer;Bug+Bounty+Researcher;CTF+Competitor" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swarup-Ingale&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-000000?style=for-the-badge&logo=google-maps&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Status-Active%20Bug%20Hunter-000000?style=for-the-badge&logo=hackerone&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Clearance-Level%203%20B.E.-000000?style=for-the-badge&logo=gitkraken&logoColor=00FF00" />
+</div>
 
-<p align="center">
-  📍 <b>Mumbai, India</b> | 🔐 <b>AI & ML | Security Automation</b>
-</p>
+<br>
+
+```bash
+root@swarup-ingale:~# ./fetch_system_status.sh
+[+] Loading User Profile... SUCCESS
+[+] Target: Swarup Ingale
+[+] Designation: 3rd-Year B.E. Cybersecurity & IoT Engineer
+[+] Specialty: Security Tools, Malware Analysis, eBPF, Web/API Security
+[+] Total Contributions: 826+ 
+[+] Streak Protocol: Active (Continuous block maintained since Jan 2026)
+[+] Objective: Actively hunting vulnerabilities and building autonomous systems.
+```
 
 ---
 
-## 🚀 About Me
-I am a 3rd-year Bachelor of Engineering student specializing in Cybersecurity, with a strong focus on **security tools, malware analysis, phishing detection, web/API security, and automation**. I believe in **learning by building**, and I actively document my projects, experiments, and research right here on GitHub.
+## 🚀 ./about_me.sh
+I believe in **learning by building**, and I actively document my projects, experiments, and research on GitHub. Alongside securing systems, I actively hunt for vulnerabilities on platforms like **HackerOne**, **BugCrowd**, and **YesWeHack**. 
 
-Alongside securing systems, I actively hunt for vulnerabilities on platforms like **HackerOne**, **BugCrowd**, and **YesWeHack**. I am also a dedicated Capture The Flag (CTF) competitor specializing in OSINT, cryptography, web exploitation, and reverse engineering. Beyond cybersecurity, I have a deep interest in full-stack web development (React.js, TypeScript) and building autonomous IoT systems.
+I am a dedicated Capture The Flag (CTF) competitor specializing in OSINT, cryptography, web exploitation, and reverse engineering. Beyond cybersecurity, I have a deep interest in full-stack web development (React.js, TypeScript) and building autonomous IoT systems.
 
-**Currently strengthening my skills in:**
+**Currently executing processes for:**
 > 🔍 Web & API Security & Bug Bounty Research  
 > 🐍 Python for Cybersecurity & Security Automation  
 > 🦠 Malware Analysis, Reverse Engineering & Phishing Detection  
@@ -28,116 +37,94 @@ Alongside securing systems, I actively hunt for vulnerabilities on platforms lik
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ ./arsenal.exe
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/C%20/%20C++-000000?style=for-the-badge&logo=c&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Assembly_(x86__64)-000000?style=for-the-badge&logo=assembly&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00" />
 </p>
 
 ### Web & Full-Stack
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
 </p>
 
 ### Tools & Concepts
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linux&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/GDB%20/%20Ghidra-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarup-Ingale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup-Ingale&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Ingale&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
-</p>
-
----
-
-## 🏆 CTF & Bug Bounty Achievements
-- 🥇 **Global Rank 1st** in RedX CTF
-- 🏅 **Global Rank 4th** in HackX CTF
-- 🇮🇳 **National Rank 27th** in Uni6 CTF
-- 🚩 Active participant in Dark CTF, Redfox CTF, and VishwaCTF
-- 🧠 Regular solver on **pwn.college**, **HackMyVM**, **pwnable.kr**, **Olicyber**, **DockerLabs**, **Vulnyx**, and many more.
+## 🏆 ./achievements.log
+| Target / Event | Rank / Status | Details |
+| :--- | :---: | :--- |
+| **RedX CTF** | 🥇 Global 1st | Advanced Exploitation |
+| **HackX CTF** | 🏅 Global 4th | Multi-vector Security |
+| **Uni6 CTF** | 🇮🇳 National 27th | Nationwide Competition |
+| **Dark, Redfox, VishwaCTF** | 🚩 Active | Competitor |
+| **pwn.college, HackMyVM** | 🧠 Solver | Regular exploitation & rooting |
 
 ---
 
-## 📂 Featured Projects
+## 📂 ./active_processes (Featured Projects)
 
-### 💻 Systems & Security
+### 💻 Systems & Security Engineering
 - 🔹 **SUGAR-OS** 🚧 *In Development* — A custom, security-oriented Operating System engineered from the ground up for enhanced system control and low-level resource management.
 - 🔹 **Custom Vulnerability Scanner** 🚧 *In Development* — An automated, high-performance security scanning engine designed to actively detect and report network and application-layer vulnerabilities.
 - 🔹 **[Sentinel-X](https://sentinel-x-swale.pages.dev/)** 🟢 *Live* — An advanced security monitoring and threat detection platform built for modern application architectures.
 - 🔹 **eBPF Security Monitor** — A system-level observability and security enforcement tool utilizing eBPF for real-time threat tracing in Linux environments.
 - 🔹 **Smart Cyber Eye** — A cybersecurity mini-project integrating NSFW detection, phishing link identification, and secure steganography.
-- 🔹 **Phishing Detection & Steganography Tools** — Python-based utilities engineered to identify malicious URLs and securely hide data within images.
 
-### 🌐 Web, AI & Cryptography
+### 🌐 Cryptography & AI
 - 🔹 **[CypherVault](https://cyphervault-swale.pages.dev/)** 🟢 *Live* — A highly secure, full-stack cryptographic vault designed for robust data protection and secure management.
 - 🔹 **JARVIS (AI Assistant)** — A comprehensive AI-powered assistant engineered for intelligent querying, task automation, and streamlined workflows.
 - 🔹 **LLM-Powered Document Parser** — An AI-based system designed to process, analyze, and query unstructured documents like contracts and security policies.
 
-### ⚙️ Autonomous IoT
+### ⚙️ Autonomous IoT Systems
 - 🔹 **Smart Traffic System** — An autonomous IoT-based traffic management solution utilizing advanced microcontrollers to optimize flow and improve road safety.
 - 🔹 **Autonomous Smart Trolley** — A custom hardware project featuring GPS navigation and LoRa communication for autonomous, waypoint-based mobility.
 
-👉 **Check all my repositories here:** 🔗 [GitHub Repositories](https://github.com/Swarup-Ingale?tab=repositories)
+👉 **Access full database:** 🔗 [GitHub Repositories](https://github.com/Swarup-Ingale?tab=repositories)
 
 ---
 
-## 📘 Learning & Notes
+## 📘 ./learning_modules
 I actively maintain structured learning notes and technical experiments focused on:
-- Web & API Security and Bug Bounty Methodologies
-- Cybersecurity Fundamentals & OWASP Guidelines
-- Custom Security Tools and Automation Scripts
-- Assembly (x86_64) and Low-Level System Security
-
-*(Notes are actively added and updated as Markdown files in my repositories.)*
+- `Web & API Security and Bug Bounty Methodologies`
+- `Cybersecurity Fundamentals & OWASP Guidelines`
+- `Custom Security Tools and Automation Scripts`
+- `Assembly (x86_64) and Low-Level System Security`
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 ./certifications
 - 🛡️ **Introduction to Cybersecurity** – Cisco Networking Academy *(Credly Verified)*
 - 🌐 **Networking Basics** - Cisco Networking Academy *(Credly Verified)*
 - 🎓 **Udemy Certifications** – Advanced Cybersecurity & Python
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Web & API Exploitation (PortSwigger Web Security Academy Labs)
-- Bug Bounty Workflows & Reconnaissance (HackerOne, YesWeHack)
-- Advanced System Security, eBPF Tracing, and Kernel Exploitation
-- Full-Stack integration with IoT Devices
+## 📫 ./network_connections
 
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/swarup-ingale-45864b295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://swale.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://swale-os-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/swarup-ingale-45864b295"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://swale.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF00" alt="Medium" /></a>
+  <a href="https://swale-os-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio" /></a>
 </p>
 
 <br>
 <p align="center">
-  ⭐ <i>I’m continuously learning, building, and breaking things (ethically) — feel free to explore my repositories!</i>
+  ⭐ <i>"Continuously learning, building, and breaking things (ethically)."</i>
 </p>
