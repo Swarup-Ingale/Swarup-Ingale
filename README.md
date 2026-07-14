@@ -15,7 +15,7 @@ root@swarup-ingale:~# ./fetch_system_status.sh
 [+] Loading User Profile... SUCCESS
 [+] Target: Swarup Ingale
 [+] Designation: Cybersecurity & IoT Engineering Student (Exp. May 2027)
-[+] Specialty: Low-level OS Architecture, Offensive Security, Reverse Engineering
+[+] Specialty: Low-level OS Architecture, Offensive Security, Reverse Engineering, OSINT
 [+] Current Objective: Seeking a competitive internship to apply advanced 
     reverse engineering, kernel-level programming, and secure system design.
 ```
@@ -116,7 +116,7 @@ I also maintain structured learning notes and technical experiments focused on:
 
 ## 🌱 Currently Learning
 - Advanced Web & API Exploitation (PortSwigger Web Security Academy Labs)
-- Bug Bounty Workflows & Reconnaissance (HackerOne, YesWeHack)
+- Bug Bounty Workflows & Reconnaissance (HackerOne, BugCrowd)
 - Advanced System Security, eBPF Tracing, and Kernel Exploitation
 - Full-Stack integration with IoT Devices
 
