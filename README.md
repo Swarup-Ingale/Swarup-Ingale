@@ -25,7 +25,7 @@ root@swarup-ingale:~# ./fetch_system_status.sh
 ## 📊 ./telemetry_data (Live Analytics)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Current+Streak:+42+Days+🔥;Total+Contributions:+876+;Profile+Status:+Active" alt="Animated Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Current+Streak:+50+Days+🔥;Total+Contributions:+900+;Profile+Status:+Active" alt="Animated Stats" />
 </div>
 
 <p align="center">
