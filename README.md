@@ -30,7 +30,7 @@ root@swarup-ingale:~# ./fetch_system_status.sh
 
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Streak-39_Days-00FF00?style=for-the-badge&color=000000&logo=github&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Total_Commits-900+-00FF00?style=for-the-badge&color=000000&logo=git&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Total_Commits-951+-00FF00?style=for-the-badge&color=000000&logo=git&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Rank-Global_Top_1%25-00FF00?style=for-the-badge&color=000000&logo=hackthebox&logoColor=00FF00" />
 </p>
 
