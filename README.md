@@ -1,84 +1,136 @@
 <div align="center">
-  
-  # ⚡ Swarup Ingale | swale
-  ### Computer Science Engineer • Cybersecurity Researcher • IoT & Hardware Developer
-  
-  <p align="center">
-    <a href="https://medium.com/@swale" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium CTF Writeups" />
-    </a>
-    <a href="https://hackerone.com/" target="_blank">
-      <img src="https://img.shields.io/badge/HackerOne-272A2E?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne VDP" />
-    </a>
-  </p>
 
-  ---
-  
-  *Currently R&D Head for the departmental committee at A.C. Patil College of Engineering & Founder of **Tunotics Global**.*
-  
+# Swarup Ingale
+
+**Cybersecurity & IoT Engineering · B.E. 2027**
+
+[portfolio](https://swale-os-portfolio.pages.dev/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/swarup-ingale-45864b295) &nbsp;·&nbsp;
+[medium](https://swale.medium.com/) &nbsp;·&nbsp;
+[github](https://github.com/Swarup-Ingale)
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
 </div>
 
-## 🕵️‍♂️ About Me
+<img src="./hd-recon.svg" width="620" alt="recon"/>
 
-I specialize in bridging the gap between low-level hardware constraints and high-level software security. From participating in global CTFs (Web, Crypto, Reverse Engineering, Pwn) to building autonomous defence logistics hardware, I build systems to understand how to break and secure them.
+> Offensive security specialist & low-level systems builder.<br>
+> Linux native, assembly fluent, kernel-curious — breaking things to understand how they work.
 
-- 🔭 **Currently Building:** **SUGAR-OS** (Custom OS in C/Assembly via QEMU) & **SMOLLEY** (Autonomous defence logistics trolley).
-- 🛠️ **Security Tools Developed:** **Sentinel-X** (Real-time vulnerability engine) & **5W413 Scanner** (Attack surface mapping).
-- 🏆 **Recent Achievements:** Top 7 at Bharat Defence Tech Show 2026, 4th globally in HackX CTF, and multi-VDP bug hunter.
-- 💬 **Ask me about:** Binary Exploitation, LoRa/ESP32 communication, React/Node full-stack architecture, or WebGL shaders.
+I focus on vulnerability research, reverse engineering, and building security tools from scratch —
+from custom operating systems to kernel-level monitors. Currently hunting for a competitive
+internship to apply advanced exploit development and secure system design.
 
-## 💻 Tech Stack & Arsenal
+<samp>mumbai, india &nbsp; · &nbsp; b.e. (exp. 2027) &nbsp; · &nbsp; seeking internships</samp>
 
-**Cybersecurity & Forensics**
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=linux&logoColor=white" />
-</p>
+<img src="./hd-arsenal.svg" width="620" alt="arsenal"/>
 
-**Software Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+**Languages & systems**
 
-**IoT, Hardware & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<samp>python &nbsp; c / c++ &nbsp; bash &nbsp; assembly (x86_64) &nbsp; typescript &nbsp; javascript</samp>
 
----
+<br>
 
-## 📊 GitHub Analytics
+**Offensive & devsecops tooling**
+
+<samp>burp suite &nbsp; metasploit &nbsp; sqlmap &nbsp; ghidra &nbsp; gdb &nbsp; wireshark &nbsp; nmap &nbsp; john &nbsp; hashcat</samp>
+
+<br>
+
+**Frameworks & infrastructure**
+
+<samp>react &nbsp; node.js &nbsp; express &nbsp; docker &nbsp; qemu &nbsp; ebpf &nbsp; arduino &nbsp; lora &nbsp; git &nbsp; linux</samp>
+
+<img src="./hd-operations.svg" width="620" alt="operations"/>
+
+**Kernel & exploit engineering** &nbsp;·&nbsp; <samp>low-level, offensive</samp><br>
+Custom OS development, assembly-level HTTP servers, kernel-level observability with eBPF,
+and proprietary vulnerability scanners — the hard problems.
+
+- **SUGAR-OS** &nbsp; 🚧 — Custom OS from scratch in C/C++ and x86_64 assembly. Kernel, process scheduler, memory management — no distro underneath.
+- **asm-http-server** — Minimal HTTP GET/POST server written entirely in x86_64 Linux assembly via raw syscalls.
+- **eBPF Security Monitor** — Kernel-level threat tracing and low-overhead network analysis using eBPF probes.
+- **5W413 Vulnerability Scanner** &nbsp; 🚧 — Automated threat modeling engine in JS/TS for detecting algorithmic flaws across web architectures.
+
+**Full-stack & applied systems** &nbsp;·&nbsp; <samp>web, ai, hardware</samp><br>
+Production apps, AI assistants, IoT prototyping — shipping things that solve real problems.
+
+- **[Sentinel-X](https://sentinel-x-swale.pages.dev/)** &nbsp; 🟢 — Advanced defensive security platform against emerging digital threats.
+- **[CypherVault](https://cyphervault-swale.pages.dev/)** &nbsp; 🟢 — Deliberately vulnerable web app for practicing CSRF, SSRF, SSTI, SQLi, XXE.
+- **J.A.R.V.I.S.** — Tiered AI framework leveraging Claude/Antigravity for digital admin to physical robotics orchestration.
+- **Edge AI Smart Traffic System** — Edge AI-driven traffic flow analysis and hardware optimization.
+- **Autonomous Smart Trolley** — Arduino + GPS + LoRa IoT navigation system for retail automation.
+
+👉 [all repositories](https://github.com/Swarup-Ingale?tab=repositories)
+
+<img src="./hd-trophies.svg" width="620" alt="trophies"/>
+
+**CTF competitions**
+
+| Event | Result |
+|---|---|
+| **RedX CTF** | 🥇 Global Rank **1st** — advanced exploitation under strict time constraints |
+| **HackX CTF** | 🏅 Global Rank **4th** — 30,700 pts via multi-vector security modeling |
+| **Uni6 CTF 1.0** | 🇮🇳 National Rank **27th** — nationwide competitive validation |
+
+<samp>active competitor: &nbsp; redfox ctf 2026 &nbsp; · &nbsp; vishwactf '26 &nbsp; · &nbsp; kashi ctf &nbsp; · &nbsp; hackzero '26 &nbsp; · &nbsp; dark-ctf 2026</samp><br>
+<samp>regular solver: &nbsp; pwn.college &nbsp; · &nbsp; hackmyvm &nbsp; · &nbsp; dreamhack.io &nbsp; · &nbsp; pwnable.kr &nbsp; · &nbsp; olicyber &nbsp; · &nbsp; dockerlabs &nbsp; · &nbsp; vulnyx</samp>
+
+**Certifications**
+
+- **Introduction to Cybersecurity** — Cisco Networking Academy <samp>(credly verified)</samp>
+- **Networking Basics** — Cisco Networking Academy <samp>(credly verified)</samp>
+- **Advanced Cybersecurity & Python** — Udemy
+
+**Currently learning**
+
+- Advanced Web & API Exploitation <samp>(portswigger web security academy)</samp>
+- Bug Bounty Reconnaissance & Workflows <samp>(hackerone, bugcrowd)</samp>
+- Kernel Exploitation, eBPF Tracing, Advanced System Security
+- Full-Stack Integration with IoT Devices
+
+<img src="./hd-telemetry.svg" width="620" alt="telemetry"/>
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarup-Ingale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Ingale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
-  <br><br>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup-Ingale&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-  <br><br>
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-  <!-- Your existing Snake Animation (ensure your workflow outputs to github-contribution-grid-snake.svg) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
-  </picture>
+### 🐍 contribution grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
+<img src="./hd-comms.svg" width="620" alt="comms"/>
+
+<pre>
+███████╗██╗    ██╗ █████╗ ██████╗ ██╗   ██╗██████╗
+██╔════╝██║    ██║██╔══██╗██╔══██╗██║   ██║██╔══██╗
+███████╗██║ █╗ ██║███████║██████╔╝██║   ██║██████╔╝
+╚════██║██║███╗██║██╔══██║██╔══██╗██║   ██║██╔═══╝
+███████║╚███╔███╔╝██║  ██║██║  ██║╚██████╔╝██║
+╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝
+
+ ██████╗ ██████╗ ███████╗ █████╗ ██╗  ██╗    ██╗████████╗
+ ██╔══██╗██╔══██╗██╔════╝██╔══██╗██║ ██╔╝    ██║╚══██╔══╝
+ ██████╔╝██████╔╝█████╗  ███████║█████╔╝     ██║   ██║
+ ██╔══██╗██╔══██╗██╔══╝  ██╔══██║██╔═██╗     ██║   ██║
+ ██████╔╝██║  ██║███████╗██║  ██║██║  ██╗    ██║   ██║
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝   ╚═╝
+
+ ██████╗ ██╗   ██╗██╗██╗     ██████╗     ██╗████████╗
+ ██╔══██╗██║   ██║██║██║     ██╔══██╗    ██║╚══██╔══╝
+ ██████╔╝██║   ██║██║██║     ██║  ██║    ██║   ██║
+ ██╔══██╗██║   ██║██║██║     ██║  ██║    ██║   ██║
+ ██████╔╝╚██████╔╝██║███████╗██████╔╝    ██║   ██║
+ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚═╝   ╚═╝
+</pre>
