@@ -4,7 +4,7 @@
 
 **Cybersecurity & IoT Engineering · B.E. 2027**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=flat&logo=vercel&logoColor=white)](https://swale-os-portfolio.pages.dev/) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=flat&logo=vercel&logoColor=white)](https://swarupingale.pages.dev/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/swarup-ingale-45864b295) &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-171717?style=flat&logo=medium&logoColor=white)](https://swale.medium.com/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat&logo=github&logoColor=white)](https://github.com/Swarup-Ingale)
